@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hi, I’m Siddhey<br>
-🎓 3rd Year Undergraduate at NIT Trichy, India<br>
+🎓 4th Year Undergraduate at NIT Trichy, India<br>
 💡 Passionate about AI/ML, Web3, and Scalable Systems<br>
 🏆 Hackathon enthusiast | Love solving impactful problems<br>
 
